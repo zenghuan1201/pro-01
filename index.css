@@ -1,0 +1,5 @@
+body {
+    background-color: blue;
+    /* background-image:'https://coding.imooc.com/static/module/class/content/img/542/section0-bg.png' ; */
+    background-image: url(bg.png);
+}
